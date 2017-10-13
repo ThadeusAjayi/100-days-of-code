@@ -8,4 +8,4 @@
 
 **Link(s) to work**: 
 1. [API Repo](https://github.com/ThadeusAjayi/student_resources)
-2. [Hosted API](https://c9.io/ainojie/student_resources/files)
+2. [Hosted API](https://student-resources-ainojie.c9users.io/resources)
