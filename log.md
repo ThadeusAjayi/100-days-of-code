@@ -7,5 +7,5 @@
 **Thoughts**: I started a class on building rest APIs yesterday and was considering how I would host it, obviously my regular host need me to have a VPS and all that. With #FreeCodeCamp Node.js and Express.js I saw cloud9 and that was it *Boom*.
 
 **Link(s) to work**: 
-1. [API](https://student-resources-ainojie.c9users.io/resources)
+1. [API Repo](https://github.com/ThadeusAjayi/student_resources)
 2. [Hosted API](https://c9.io/ainojie/student_resources/files)
