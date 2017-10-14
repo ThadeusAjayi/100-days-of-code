@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: October 13, 201r (Node.js and Express.js)
+### Day 1: October 13, 2017 (Node.js and Express.js)
 
 **Today's Progress**: Hosted an API on Cloud9 #FreeCodeCamp Node.js and Express.js .
 
@@ -9,3 +9,9 @@
 **Link(s) to work**: 
 1. [API Repo](https://github.com/ThadeusAjayi/student_resources)
 2. [Hosted API](https://student-resources-ainojie.c9users.io/resources)
+
+### Day 2: October 14, 2017 (Reading Files)
+
+**Today's Progress**: Read synchronous and asynchronous files
+
+**Thoughts**: Reading files I always skipped, I now love it
