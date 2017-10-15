@@ -15,3 +15,9 @@
 **Today's Progress**: Read synchronous and asynchronous files
 
 **Thoughts**: Reading files I always skipped, I now love it
+
+### Day 3: October 15, 2017 (http Javascript)
+
+**Today's Progress**: Playing around with http functions and async http
+
+**Thoughts**: Async async async it is
