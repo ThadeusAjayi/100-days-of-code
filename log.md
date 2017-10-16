@@ -21,3 +21,11 @@
 **Today's Progress**: Playing around with http functions and async http
 
 **Thoughts**: Async async async it is
+
+
+### Day 4: October 14, 2017 (http post test)
+
+**Today's Progress**: Testing http POST in okHTTp dependency Android
+
+**Thoughts**: I have learnt it, then I tried it
+
