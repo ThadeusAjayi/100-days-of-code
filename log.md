@@ -23,9 +23,14 @@
 **Thoughts**: Async async async it is
 
 
-### Day 4: October 14, 2017 (http post test)
+### Day 4: October 16, 2017 (http post test)
 
 **Today's Progress**: Testing http POST in okHTTp dependency Android
 
 **Thoughts**: I have learnt it, then I tried it
 
+### Day 5: October 17, 2017 (Pug Template)
+
+**Today's Progress**: I used pug template engine in my mean stack
+
+**Thoughts**: With knowledge of #PUG I am heading on to #React
