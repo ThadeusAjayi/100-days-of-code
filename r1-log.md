@@ -14,3 +14,5 @@ The log of my #100DaysOfCode challenge. Started on [October 13, Friday, 2017].
   Testing http POST in okHTTp dependency Android
 ### R1D5
   I used pug template engine in my mean stack
+  ### R1D6
+  Converted Bootstrap template to Pug
