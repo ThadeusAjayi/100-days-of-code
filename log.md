@@ -34,3 +34,9 @@
 **Today's Progress**: I used pug template engine in my mean stack
 
 **Thoughts**: With knowledge of #PUG I am heading on to #React
+
+### Day 6: October 18, 2017 (Bootstrap to Pug Template)
+
+**Today's Progress**: Bootstrap template to Pug
+
+**Thoughts**: I converted a bootstrap template to PUG template 90%
