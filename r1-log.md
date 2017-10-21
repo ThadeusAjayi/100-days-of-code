@@ -14,5 +14,9 @@ The log of my #100DaysOfCode challenge. Started on [October 13, Friday, 2017].
   Testing http POST in okHTTp dependency Android
 ### R1D5
   I used pug template engine in my mean stack
-  ### R1D6
+### R1D6
   Converted Bootstrap template to Pug
+### R1D7
+  Code restucture and brainstorming
+### R1D8
+  Struggling with loading image to ImageView with picasso library, I didn't commit enough in git to checkout a working commit
