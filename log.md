@@ -40,3 +40,15 @@
 **Today's Progress**: Bootstrap template to Pug
 
 **Thoughts**: I converted a bootstrap template to PUG template 90%
+
+### Day 7: October 19, 2017 (Code Restructure)
+
+**Today's Progress**: brainstorming better code structure and refactor.
+
+**Thoughts**: Code flow can only be better
+
+### Day 8: October 21, 2017 (Android Picasso Library)
+
+**Today's Progress**: Struggling with showing an image in an ImageView
+
+**Thoughts**: Even my commits were not consistent enough to properly track where I ruined the code
