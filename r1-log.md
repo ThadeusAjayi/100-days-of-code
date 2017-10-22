@@ -20,3 +20,5 @@ The log of my #100DaysOfCode challenge. Started on [October 13, Friday, 2017].
   Code restucture and brainstorming
 ### R1D8
   Struggling with loading image to ImageView with picasso library, I didn't commit enough in git to checkout a working commit
+### R1D9
+  Trying to get a hang of Date object
