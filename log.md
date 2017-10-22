@@ -52,3 +52,9 @@
 **Today's Progress**: Struggling with showing an image in an ImageView
 
 **Thoughts**: Even my commits were not consistent enough to properly track where I ruined the code
+
+### Day 9: October 22, 2017 (Date Object)
+
+**Today's Progress**: Another challenge in Date object
+
+**Thoughts**: Phew, I need to get at this quick tomorrow
